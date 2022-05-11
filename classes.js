@@ -151,16 +151,23 @@ class shirt {
 
 // - Properties yang akan ada pada jenis produk fast food adalah expired :
 // berisi integer yang menunjukkan tahun dimana makanan ini tidak lagi layak untuk dikonsumsi
+tahun expired
 
 // - Properties yang akan ada pada jenis produk cloth adalah size :
 // berisi satu buah huruf yang menunjukkan ukuran dari pakaian, terdapat empat huruf yaitu s, m, l, dan xl
 
+ukuran = XL
+
 // - Properties yang akan ada pada jenis produk electronic adalah warranty :
 //  berisi string 'yes' atau 'no' untuk menunjukkan bahwa barang tersebut masih memiliki garansi atau tidak.
+
+warranty = yes 
 
 // - Properties yang akan ada pada jenis produk buah  adalah sugarLevel :
 // berisi sebuah string yang memiliki tiga buah pilihan yaitu
 //  'low', 'medium', dan 'high' untuk memberi tahu tingkat kandungan gula yang ada pada buah
+
+sugarlevel = low 
 
 // - Karena kini sudah memiliki jenis atau kategori produk.
 // Saat akan menambahkan produk baru, maka akan menentukan jenisnya terlebih dahulu sebelum menginput data lainnya
